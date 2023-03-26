@@ -1,0 +1,21 @@
+{
+  "name": "british-racing-green",
+  "displayName": "British Racing Green",
+  "description": "A VSCode color theme based on the british racing green colo.r",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "British Racing Green",
+        "uiTheme": "vs-dark",
+        "path": "./themes/British Racing Green-color-theme.json"
+      }
+    ]
+  }
+}
