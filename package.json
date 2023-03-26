@@ -1,13 +1,21 @@
 {
   "name": "british-racing-green",
   "displayName": "British Racing Green",
-  "description": "A VSCode color theme based on the british racing green colo.r",
+  "description": "A color theme based on the British Racing Green color.",
+  "publisher": "antonis19",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.76.0"
   },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "dark",
+    "green",
+    "british",
+    "racing",
+    "theme"
   ],
   "contributes": {
     "themes": [
@@ -17,5 +25,6 @@
         "path": "./themes/British Racing Green-color-theme.json"
       }
     ]
-  }
+  },
+  "repository": "https://github.com/antonis19/british-racing-green-theme-vscode"
 }
